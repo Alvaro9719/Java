@@ -1,0 +1,65 @@
+﻿[Files]
+File0=C:\Users\alvar\Documents\JavaÜbungen-KlassenSammlungen\Funktionen.java
+File1=C:\Users\alvar\Documents\JavaÜbungen-KlassenSammlungen\KontrollstrukturenMethoden.java
+File2=C:\Users\alvar\Documents\JavaÜbungen-KlassenSammlungen\Menue_cmd_fenster.java
+File3=C:\Users\alvar\Documents\JavaÜbungen-KlassenSammlungen\Menuecases.java
+
+[Box:  - Funktionen]
+X=838
+Y=91
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - KontrollstrukturenMethoden]
+X=374
+Y=261
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Menue_cmd_fenster]
+X=133
+Y=55
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=12
+FontName=Segoe UI
+
+[Box:  - Menuecases]
+X=377
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+FontSize=12
+FontName=Segoe UI
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=1
+ShowConnections=0
+Fontname=Segoe UI
+Fontsize=12
+ShowObjectDiagram=0
+
+[Connections]
+V0=Menuecases#KontrollstrukturenMethoden#AssociationDirected####0#0#0###0#0
+
+[Interactive]
+I0=
+
